@@ -1,0 +1,1 @@
+The colorize black and white pictures project uses deep learning, particularly convolutional neural networks, to automatically add authentic colors to black and white images, enhancing historical photographs with accurate and visually pleasing colorization.
